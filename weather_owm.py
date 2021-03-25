@@ -3,7 +3,7 @@ from pyowm.utils.config import get_default_config
 from telebot import TeleBot
 
 owm = OWM("OWM_TOKEN")
-bot = TeleBot("809500050:TELEGRAM_TOKEN")
+bot = TeleBot("TELEGRAM_TOKEN")
 
 city = 'Тирасполь'
 
