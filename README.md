@@ -1,2 +1,3 @@
-# weather_telegram_bot
-This telegram bot that shows weather
+# **Погода в телеграм боте**
+
+### Этот телеграм бот показывает погоду в твоем городе.
